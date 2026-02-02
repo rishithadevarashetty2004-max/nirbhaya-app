@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_app_id">1:690353116953:android:cdf04d9158976871009788</string>
+    <string name="gcm_defaultSenderId">690353116953</string>
+    <string name="default_web_client_id" /> <!-- You can leave this empty if there's no web client ID -->
+    <string name="firebase_database_url" /> <!-- You can leave this empty if not using Firebase Realtime Database -->
+    <string name="google_api_key">AIzaSyAPM7ntPVlsxJ6r3ucluJ2gFb0-Q3wZbYg</string>
+    <string name="google_crash_reporting_api_key" /> <!-- You can leave this empty if not using Crash Reporting -->
+    <string name="project_id">nirbhaya-app-913ea</string>
+    <string name="storage_bucket">nirbhaya-app-913ea.appspot.com</string>
+</resources>
